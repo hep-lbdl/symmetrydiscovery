@@ -1,0 +1,92 @@
+2021-07-23 10:41:50.816775: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2021-07-23 10:41:50.888368: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1561] Found device 0 with properties: 
+pciBusID: 0000:3e:00.0 name: Tesla V100-SXM2-16GB computeCapability: 7.0
+coreClock: 1.53GHz coreCount: 80 deviceMemorySize: 15.78GiB deviceMemoryBandwidth: 836.37GiB/s
+2021-07-23 10:41:50.888952: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2021-07-23 10:41:50.891650: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2021-07-23 10:41:50.894344: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
+2021-07-23 10:41:50.894850: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
+2021-07-23 10:41:50.897666: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
+2021-07-23 10:41:50.899008: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
+2021-07-23 10:41:50.904391: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+2021-07-23 10:41:50.908282: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1703] Adding visible gpu devices: 0
+2021-07-23 10:41:50.908693: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2021-07-23 10:41:50.915055: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2400000000 Hz
+2021-07-23 10:41:50.915306: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x2aab88000b10 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-07-23 10:41:50.915317: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-07-23 10:41:51.097994: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5555588c6ee0 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2021-07-23 10:41:51.098016: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Tesla V100-SXM2-16GB, Compute Capability 7.0
+2021-07-23 10:41:51.100323: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1561] Found device 0 with properties: 
+pciBusID: 0000:3e:00.0 name: Tesla V100-SXM2-16GB computeCapability: 7.0
+coreClock: 1.53GHz coreCount: 80 deviceMemorySize: 15.78GiB deviceMemoryBandwidth: 836.37GiB/s
+2021-07-23 10:41:51.100397: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2021-07-23 10:41:51.100420: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2021-07-23 10:41:51.100430: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
+2021-07-23 10:41:51.100438: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
+2021-07-23 10:41:51.100445: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
+2021-07-23 10:41:51.100452: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
+2021-07-23 10:41:51.100460: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+2021-07-23 10:41:51.104898: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1703] Adding visible gpu devices: 0
+2021-07-23 10:41:51.104977: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2021-07-23 10:41:51.107943: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1102] Device interconnect StreamExecutor with strength 1 edge matrix:
+2021-07-23 10:41:51.107956: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1108]      0 
+2021-07-23 10:41:51.107963: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1121] 0:   N 
+2021-07-23 10:41:51.112464: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1247] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 14900 MB memory) -> physical GPU (device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:3e:00.0, compute capability: 7.0)
+2021-07-23 10:41:52.250242: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+j =  0
+j =  1
+j =  2
+j =  3
+j =  4
+j =  5
+j =  6
+j =  7
+j =  8
+j =  9
+j =  10
+j =  11
+j =  12
+j =  13
+j =  14
+j =  15
+j =  16
+j =  17
+j =  18
+j =  19
+j =  20
+j =  21
+j =  22
+j =  23
+j =  24
+j =  25
+j =  26
+j =  27
+j =  28
+j =  29
+j =  30
+j =  31
+j =  32
+j =  33
+j =  34
+j =  35
+j =  36
+j =  37
+j =  38
+j =  39
+j =  40
+j =  41
+j =  42
+j =  43
+j =  44
+j =  45
+j =  46
+j =  47
+j =  48
+j =  49
+Asymm Gaussian
+r_i =  [3.6716535, 1.4299108, 1.9763333, 0.8749214, 1.0281509, 4.506564, 0.13231207, 2.7209647, 0.88221306, 4.57176, 3.0261703, 1.3627025, 4.328638, 1.713225, 2.8900697, 4.330122, 3.3220668, 4.7990427, 3.6490486, 0.44952026, 4.864774, 0.44880122, 4.9838734, 4.5496464, 3.472437, 2.2876313, 0.80129296, 3.5557187, 0.9457904, 3.920754, 0.41633317, 2.2496023, 2.0889544, 4.450305, 0.43839383, 4.6057253, 2.457634, 4.035287, 1.0328654, 3.2041013, 2.2094846, 3.6192381, 2.398504, 1.8459915, 4.5521255, 2.091399, 3.3528986, 2.1109366, 1.0160005, 3.6054406]
+t_i =  [2.7969437, 5.905197, 2.1834733, 5.3250175, 3.4407556, 5.417985, 3.6026993, 0.2741901, 4.9848304, 4.656917, 3.0869288, 0.9677599, 2.5424452, 1.0723807, 3.7291105, 4.7184787, 2.5515068, 0.40301976, 1.1062294, 4.0197644, 4.5832963, 1.3243715, 3.8735824, 4.758721, 5.690676, 4.6463013, 1.3244689, 3.472606, 5.5000854, 0.4057282, 2.7191548, 5.2996635, 2.8454356, 4.735119, 2.3328838, 0.38658264, 0.47203615, 2.9695952, 5.3433113, 4.6325765, 2.34864, 2.9144573, 4.9329467, 2.2849836, 5.905943, 3.4253192, 0.9380068, 2.0914652, 4.592051, 5.5237517]
+d_i =  [2.952692, -1.9804401, 1.7527585, 2.419898, 2.2822657, 2.001204, 2.2335224, 1.0801964, -2.4715111, 2.6933784, 2.3479862, -1.0501878, 1.5850401, -0.4788823, 0.8542564, -0.18250108, -0.75645876, -0.5479431, -0.15716743, -2.7475648, -2.5299053, -1.5984342, 1.6988049, -0.31777668, -0.91931105, 2.581503, -1.3237138, 0.73882556, 0.6914234, -0.60854816, -1.3695595, -0.10419202, 2.963376, 1.945838, 2.820261, 2.7180738, 0.7644818, -0.7241607, 1.3010197, 0.9513216, -1.0357683, 1.1482887, -0.8388448, 2.7911353, 1.5476599, 0.22999692, -1.174495, 1.494318, -0.44175696, 2.6037407]
+r_f =  [1.3593013, 1.0492636, 1.4618349, 1.0899203, 1.0031526, 1.4409105, 0.9819882, 1.4064548, 1.4421917, 1.3624455, 1.4170132, 1.3553938, 1.3716658, 1.4815816, 1.3559558, 1.3822589, 1.0126588, 1.266458, 1.338815, 0.9663095, 1.3745881, 1.0804791, 1.4050388, 1.4568299, 1.4539452, 1.3842342, 1.3739771, 1.0105221, 1.473636, 1.4142339, 1.0126189, 1.3737123, 1.4834924, 1.4115928, 1.0352794, 1.4121634, 1.3699896, 1.0246292, 1.31433, 1.3611809, 1.3170903, 1.412804, 1.4127262, 1.4498645, 1.3787605, 1.4178221, 1.3830416, 1.4556682, 1.3846798, 1.4829333]
+t_f =  [1.593778, 6.2403, 1.5361246, 6.2296557, 3.0240803, 4.7317576, 3.1633246, 1.6193887, 4.660294, 4.7023993, 4.741875, 1.6005104, 1.590836, 1.5553248, 4.786197, 4.708026, 3.1206274, 1.3996565, 1.5665339, 3.1477525, 4.7050853, -0.022588981, 4.71512, 4.7410793, 4.709803, 4.701194, 1.5627947, 3.149163, 4.7119923, 1.5608418, 3.231311, 4.650696, 1.5566337, 4.6837845, 3.200696, 1.5913185, 1.5288295, 3.1562593, 4.781592, 4.683845, 1.5141768, 1.575873, 4.7659125, 1.526099, 4.701308, 4.645064, 1.5539864, 1.6315435, 4.712172, 4.7233734]
+d_f =  [1.074302, -1.0104588, 0.9042845, 0.96685183, 0.95960724, 0.9230752, 0.99717593, 0.98355186, -0.9488865, 1.0067351, 0.9747886, -1.0506442, 1.0618142, -0.9776307, 1.0118574, -1.04299, -1.0022044, 0.6102616, -1.0179237, -0.9523614, -1.0769254, -1.0286342, 1.030065, -1.0246787, -0.9192014, 0.98768777, -1.04105, -0.9981517, 0.9681331, 0.948629, -1.0028123, 1.037082, 0.91035014, 0.94851136, 0.97051007, 1.0461475, -1.011442, 0.96728665, 1.1055187, 0.90896094, -1.0746623, 0.99537826, -0.94513786, 1.0006684, 1.0048752, -0.97649574, -0.9755518, 1.0010103, -1.0289658, 0.9212951]
