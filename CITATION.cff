@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper below."
+title: "symmetrydiscovery"
+type: software
+authors:
+  - family-names: "Desai"
+    given-names: "Krish"
+repository-code: "https://github.com/hep-lbdl/symmetrydiscovery"
+url: "https://github.com/hep-lbdl/symmetrydiscovery"
+abstract: "Software accompanying the paper 'Symmetry Discovery with Deep Learning'."
+keywords:
+  - "high-energy physics"
+  - "deep learning"
+  - "symmetry discovery"
+  - "physics"
+version: "SymmetryDiscovery"
+date-released: 2022-05-09
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Desai"
+      given-names: "Krish"
+    - family-names: "Nachman"
+      given-names: "Benjamin"
+    - family-names: "Thaler"
+      given-names: "Jesse"
+  title: "Symmetry Discovery with Deep Learning"
+  journal: "Physical Review D"
+  volume: 105
+  issue: 9
+  article-number: 096031
+  date-published: 2022-05-24
+  publisher: "American Physical Society"
+  doi: "10.1103/PhysRevD.105.096031"
